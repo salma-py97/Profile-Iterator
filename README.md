@@ -2,7 +2,7 @@
 
 This simple app uses iterators to loop through user profiles using ES6 iterators.
 
-This project is #### N°14 of the <a href="https://twitter.com/barmaki_salma">#30Days30Projects</a> challenge.
+This project is ####N°14 of the <a href="https://twitter.com/barmaki_salma">#30Days30Projects</a> challenge.
 
 #### Follow me on <a href="https://twitter.com/barmaki_salma">Twitter</a> to see my progress.
 
